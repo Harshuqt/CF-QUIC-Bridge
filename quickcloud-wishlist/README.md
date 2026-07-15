@@ -20,7 +20,7 @@ This script is designed to automate the process of allowlisting and managing IP 
 
 1. Download the script:
    ```bash
-   wget -q https://raw.githubusercontent.com/YettobeDecleated/cloudflare-quic-whitelist.sh -P /opt/
+   wget -q https://raw.githubusercontent.com/Harshuqt/CF-QUIC-Bridge/refs/heads/main/quickcloud-wishlist/cloudflare-quic-whitelist.sh -P /opt/
 2. Make the script executable:
    ```bash
    chmod +x /opt/cloudflare-quic-whitelist.sh
